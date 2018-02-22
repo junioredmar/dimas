@@ -25,14 +25,3 @@ cd .\site\
 zip ../site.zip *
 cd ..
 zip dotnet-core-tutorial.zip site.zip aws-windows-deployment-manifest.json
-
-# AWS User
-edmin
-accessId: AKIAIZK2DETJZECDDUQQ
-secretkey: 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
-
-# RDS instance
-aa1s3yuwortn4sb.c3pwqxooxmgn.us-east-1.rds.amazonaws.com
-3306
-edmin
-HFu9y!zaD9
